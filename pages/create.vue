@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="font-black text-5xl">
-      Events
+      Create an Event
     </h1>
   </div>
 </template>
@@ -13,3 +13,6 @@ export default {
   }
 }
 </script>
+
+<style>
+</style>
