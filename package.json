@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-vue-mastery",
+  "name": "nuxt-real-world-events",
   "version": "1.0.0",
-  "description": "My brillan Nuxt.js app",
+  "description": "Basic App for creating Events using Nuxt.js",
   "author": "Diego Melgar",
   "private": true,
   "scripts": {
